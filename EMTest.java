@@ -6,11 +6,6 @@ public class EMTest
       emails.listAll();
       
       
-      
-      
-      
-      /*
-      
       emails.addEntry(new Name("Shawn","Lin"),"shawnlin916@gmail.com");
       emails.addEntry(new Name("Jonathan","Chpolasky"),"jonathanchpolansky@gmail.com");
       emails.addEntry(new Name("Alexis","Bell"),"bunnyandlamby@gmail.com");
@@ -59,7 +54,7 @@ public class EMTest
       
       
       
-      */
+   
       
       
    }
