@@ -1,0 +1,10 @@
+Ted Teacher ted_teacher@someschool.org
+Jenny Java jenny_java@someschool.org
+Bob Binary bob_binary@someschool.org
+Betty Binary betty_binary@someschool.org
+Bertha Binary bertha_binary@someschool.org
+Beulah Binary beulah_binary@someschool.org
+Joey Java joseph.java@home.net
+Cathy Coder c.coder@burbank.edu
+Susie Silicon-Valley ssilicon_valley@google.com
+Steve Silicon ssilicon@google.com
